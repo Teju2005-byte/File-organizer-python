@@ -16,3 +16,4 @@ This Python tool helps organize messy folders by automatically sorting files int
 
 ### 📄 Documentation
 See the file: `GKB_File_Organizer_Report_Tejaswi.docx`
+(https://github.com/Teju2005-byte/File-organizer-python/blob/main/GKB_File_Organizer_Report_Tejaswi.docx)
